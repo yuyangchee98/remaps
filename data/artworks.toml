@@ -1,0 +1,509 @@
+[[artworks]]
+alt = "Test Alt"
+description = "Apps Script API for reMarkable Cloud. Includes Synchronizer capability to automate mirroring of documents from Google Drive to reMarkable Cloud."
+shortdescription = "Apps Script API for reMarkable Cloud."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/bsdz/google-drive-remarkable-sync"
+thumb = "img/thumb.png"
+title = "Google Drive Remarkable Sync"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A Java API for the reMarkable Cloud"
+shortdescription = "A Java API for the reMarkable Cloud"
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/jlarriba/jrmapi"
+thumb = "img/thumb.png"
+title = "jrmapi"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A framework for developing applications with native refresh support for reMarkable Tablet."
+shortdescription = "A framework for app dev with native refresh."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/canselcik/libremarkable"
+thumb = "img/thumb.png"
+title = "libreMarkable"
+
+[[artworks]]
+alt = "Test Alt"
+description = "C++ File API for the reMarkable tablet."
+shortdescription = "C++ File API for the reMarkable tablet."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/ax3l/lines-are-beautiful"
+thumb = "img/thumb.png"
+title = "lines-are-beautiful"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Rust File API for the reMarkable tablet."
+shortdescription = "Rust File API for the reMarkable tablet."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/ax3l/lines-are-rustyl"
+thumb = "img/thumb.png"
+title = "lines-are-rusty"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Docs and implementation of the reMarkable file sync API."
+shortdescription = "Docs and implementation of the reMarkable file sync API."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/splitbrain/ReMarkableAPI"
+thumb = "img/thumb.png"
+title = "reMarkableAPI"
+
+[[artworks]]
+alt = "Test Alt"
+description = "TypeScript API for reMarkable Cloud."
+shortdescription = "TypeScript API for reMarkable Cloud."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/Ogdentrod/reMarkable-typescript"
+thumb = "img/thumb.png"
+title = "reMarkable-typescript"
+
+[[artworks]]
+alt = "Test Alt"
+description = "ReMarkable Cloud Go API."
+shortdescription = "ReMarkable Cloud Go API."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/juruen/rmapi"
+thumb = "img/thumb.png"
+title = "rMAPI"
+
+[[artworks]]
+alt = "Test Alt"
+description = "ReMarkable Cloud Python API."
+shortdescription = "ReMarkable Cloud Python API."
+dimensions = "APIs"
+image = "img/full.png"
+mediums = "https://github.com/subutux/rmapy"
+thumb = "img/thumb.png"
+title = "rmapy"
+
+[[artworks]]
+alt = "Test Alt"
+description = "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats."
+shortdescription = "An improved ebook reader application."
+dimensions = "Applications"
+image = "img/full.png"
+mediums = "https://github.com/koreader/koreader"
+thumb = "img/thumb.png"
+title = "KOReader"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Plato reader port. Supports pdfs, epubs, many other formats."
+shortdescription = "Plato reader port. Supports pdfs, epubs, many other formats."
+dimensions = "Applications"
+image = "img/full.png"
+mediums = "https://github.com/darvin/plato"
+thumb = "img/thumb.png"
+title = "plato"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A distraction free keyboard notes app."
+shortdescription = "A distraction free keyboard notes app."
+dimensions = "Applications"
+image = "img/keywriter-full.gif"
+mediums = "https://github.com/dps/remarkable-keywriter"
+thumb = "img/keywriter-thumb.gif"
+title = "reMarkable keywriter"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Offline wikipedia reader for reMarkable."
+shortdescription = "Offline wikipedia reader for reMarkable."
+dimensions = "Applications"
+image = "img/full.png"
+mediums = "https://github.com/dps/remarkable-wikipedia"
+thumb = "img/thumb.png"
+title = "reMarkable wikipedia"
+
+[[artworks]]
+alt = "Test Alt"
+description = "VNC client for the reMarkable tablet allowing you to turn the device into an external screen."
+shortdescription = "Turn rM into an external screen"
+dimensions = "Applications"
+image = "img/full.png"
+mediums = "https://github.com/matteodelabre/rmvncclient"
+thumb = "img/thumb.png"
+title = "rmvncclient"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Script to print directly to reMarkable Cloud from CUPS using rMAPI."
+shortdescription = "Script to print directly to reMarkable Cloud from CUPS"
+dimensions = "17.5cm x 11.3cm"
+image = "img/full.png"
+mediums = "https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/)"
+thumb = "img/thumb.png"
+title = "CUPS Printing"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Sync script for reMarkable paper tablet."
+shortdescription = "Sync script for reMarkable paper tablet."
+dimensions = "Cloud Tools"
+image = "img/full.png"
+mediums = "https://github.com/simonschllng/rm-sync"
+thumb = "img/thumb.png"
+title = "rM-sync"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Syncthing on reMarkable."
+shortdescription = "Syncthing on reMarkable."
+dimensions = "Cloud Tools"
+image = "img/full.png"
+mediums = "http://github.com/evidlo/remarkable_syncthing"
+thumb = "img/thumb.png"
+title = "reMarkable_syncthing"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Script to sync PDFs from the Zotero reference manager"
+shortdescription = "Script to sync PDFs from Zotero reference manager"
+dimensions = "Cloud Tools"
+image = "img/full.png"
+mediums = "https://github.com/michaelmior/zotero-remarkable"
+thumb = "img/thumb.png"
+title = "zotero-reMarkable"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Export notes from a reMarkable Tablet to File System and External Services."
+shortdescription = "Export notes from rM to external services"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/simonbaudart/Funcky.Remarkable.Exporter"
+thumb = "img/thumb.png"
+title = "Funcky reMarkable Exporter"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Export Instapaper-Articles to PDF and send them to a connected rM tablet."
+shortdescription = "Export Instapaper to rM tablet."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/fabianmu/instapaper-as-pdf-to-remarkable"
+thumb = "img/thumb.png"
+title = "instapaper-as-pdf-to-reMarkable"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A bot to sync the morning paper to a remarkable tablet."
+shortdescription = "morning paper to remarkable tablet."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/jessfraz/morningpaper2remarkable"
+thumb = "img/thumb.png"
+title = "morningpaper2reMarkable"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Download an academic paper or HTML article, crop it, and send it to the reMarkable with a single command."
+shortdescription = "Academic paper to rM."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/GjjvdBurg/paper2remarkable"
+thumb = "img/thumb.png"
+title = "paper2reMarkable"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Download articles from read-later platform pocket in PDF and epub, ready for import on reMarkable."
+shortdescription = "pocket to rM"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/glidergeek/pocket2rm"
+thumb = "img/thumb.png"
+title = "pocket2rm"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Companion daemon for the reMarkable paper tablet."
+shortdescription = "Companion daemon for the reMarkable"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/reHackable/maxio"
+thumb = "img/thumb.png"
+title = "reHackable/maxio"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A set of bash scripts that may enhance your reMarkable experience."
+shortdescription = "A set of bash scripts to enhance your rM experience."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/reHackable/scripts"
+thumb = "img/thumb.png"
+title = "reHackable/scripts"
+
+[[artworks]]
+alt = "Test Alt"
+description = "GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud."
+shortdescription = "GUI to browse, download & upload and backup the tablet."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/peerdavid/remapy"
+thumb = "img/thumb.png"
+title = "RemaPy"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Manage templates, splash screens, and settings on your reMarkable tablet."
+shortdescription = "Manage templates, splash screens, and settings."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/richeymichael/remarkable-assistant"
+thumb = "img/thumb.png"
+title = "reMarkable-assistant"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Package manager for reMarkable. Install common Unix utilities through the command line."
+shortdescription = "Package manager for reMarkable"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "http://github.com/evidlo/remarkable_entware"
+thumb = "img/thumb.png"
+title = "reMarkable_entware"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A FUSE filesystem wrapper for the reMarkable tablet."
+shortdescription = "A FUSE filesystem wrapper for the reMarkable tablet."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/nick8325/remarkable-fs"
+thumb = "img/thumb.png"
+title = "reMarkable-fs"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A GUI written in java to backup your device, upload templates and modify splash screens."
+shortdescription = "GUI to backup, upload templates and splash screens."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/moovida/remarkable-hyutilities"
+thumb = "img/thumb.png"
+title = "reMarkable-hyutilities"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Software to use rM as wireless keyboard/mouse."
+shortdescription = "Software to use rM as wireless keyboard/mouse."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/Evidlo/remarkable_keyboard"
+thumb = "img/thumb.png"
+title = "reMarkable_keyboard"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Use your reMarkable as a graphics tablet."
+shortdescription = "Use your reMarkable as a graphics tablet."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/evidlo/remarkable_mouse"
+thumb = "img/thumb.png"
+title = "reMarkable_mouse"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Use daily news/comics/images as the suspend screen."
+shortdescription = "Use daily news/comics/images as the screen."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/evidlo/remarkable_news"
+thumb = "img/thumb.png"
+title = "remarkable_news"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Dynamically updating PDFs."
+shortdescription = "Dynamically updating PDFs."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/evidlo/remarkable_pdflets"
+thumb = "img/thumb.png"
+title = "reMarkable_pdflets"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Print from any device to reMarkable without browser extensions or reMarkable cloud."
+shortdescription = "Print to reMarkable w/o extensions or cloud."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/Evidlo/remarkable_printer"
+thumb = "img/thumb.png"
+title = "remarkable_printer"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Change your poweroff and suspend screens every 5 minutes with random images of your choice"
+shortdescription = "Change yoursuspend screens over time"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/Neurone/reMarkable"
+thumb = "img/thumb.png"
+title = "reMarkable-random-screens"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss."
+shortdescription = "Tweak tool for the rM. Lets you organize your templates with no fuss."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/morngrar/remarkable-tweak"
+thumb = "img/thumb.png"
+title = "reMarkable-tweak"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Touch gestures (swipe/touch) for easy page navigation."
+shortdescription = "Touch gestures for easy page navigation."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/ddvk/remarkable-touchgestures"
+thumb = "img/thumb.png"
+title = "reMarkable-touchgestures"
+
+[[artworks]]
+alt = "Test Alt"
+description = "reMarkable tablet command-line tools."
+shortdescription = "Apps Script API for reMarkable Cloud."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://gitlab.com/wrobell/remt"
+thumb = "img/thumb.png"
+title = "remt"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Stream your reMarkable screen over SSH."
+shortdescription = "Apps Script API for reMarkable Cloud."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/rien/reStream"
+thumb = "img/thumb.png"
+title = "reStream"
+
+[[artworks]]
+alt = "Test Alt"
+description = "GUI to browse, download/upload files and backup the tablet without using the cloud."
+shortdescription = "Apps Script API for reMarkable Cloud."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/bruot/pyrmexplorer/wiki"
+thumb = "img/thumb.png"
+title = "rMExplorer"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Export annotated PDFs from reMarkable tablets."
+shortdescription =  "Export annotated PDFs from reMarkable tablets."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/jmptable/rm-dl-annotated"
+thumb = "img/thumb.png"
+title = "rM-dl-annotated"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Synchronisation script with a local dedicated library folder."
+shortdescription = "Synchronisation script with a local dedicated library folder."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/lschwetlick/rMsync"
+thumb = "img/thumb.png"
+title = "rMsync"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Application that allows you to simulate/clone rM input on your computer"
+shortdescription = "Application that allows you to simulate/clone rM input on your computer"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/LinusCDE/rmTabletDriver"
+thumb = "img/thumb.png"
+title = "rmTabletDriver"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Simple web app to upload epub or pdf files to the reMarkable tablet via drag and drop."
+shortdescription = "Simple web app to upload epub or pdf files via drag and drop."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/lobre/rmuploader"
+thumb = "img/thumb.png"
+title = "rmUploader"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A fast GUI to stream your reMarkable screen over SSH."
+shortdescription = "A fast GUI to stream your reMarkable screen over SSH."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/bordaigorl/rmview"
+thumb = "img/thumb.png"
+title = "rMview"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen."
+shortdescription = "A fast & efficient VNC server for streaming rM's screen."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/peter-sa/rM-vnc-server"
+thumb = "img/thumb.png"
+title = "rM-vnc-server"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Use the wacom pen as a mouse to draw on your pc."
+shortdescription = "Use the wacom pen as a mouse to draw on your pc."
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/LinusCDE/rmWacomToMouse"
+thumb = "img/thumb.png"
+title = "rmWacomToMouse"
+
+[[artworks]]
+alt = "Test Alt"
+description = "View a file tree, see statistics and export/backup all files with some simple scripts utilizing the web ui."
+shortdescription = "View a file tree, see statistics and export/backup all files"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/LinusCDE/rmWebUiTools"
+thumb = "img/thumb.png"
+title = "rmWebUiTools"
+
+[[artworks]]
+alt = "Test Alt"
+description = "Alternative screen-streaming software. Written in Go."
+shortdescription = "Alternative screen-streaming software"
+dimensions = "Device Tools"
+image = "img/full.png"
+mediums = "https://github.com/merovius/srvfb"
+thumb = "img/thumb.png"
+title = "srvfb"
+
+[[artworks]]
+alt = "Test Alt"
+description = "A launcher for the reMarkable tablet, which wraps around the standard interface."
+shortdescription = "A launcher for the reMarkable tablet"
+dimensions = "Launchers"
+image = "img/full.png"
+mediums = "https://github.com/dixonary/draft-reMarkable"
+thumb = "img/thumb.png"
+title = "draft-reMarkable"

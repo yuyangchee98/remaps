@@ -1,0 +1,11 @@
+# Site settings
+baseurl = "https://example.com"
+languageCode = "en-us"
+sectionPagesMenu = "main"
+theme = "frances"
+
+[params]
+	name = "remaps"
+	description = "A list of applications/ dev tools for the reMarkable paper tablet."
+	author = "remaps"
+	copyrightname = "Yu Yang Chee"
