@@ -1,0 +1,3 @@
+[submodule "themes/frances"] 
+  path = themes/frances 
+  url = https://github.com/mcrwfrd/hugo-frances-theme.git
