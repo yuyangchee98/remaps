@@ -3,6 +3,7 @@ baseurl = "https://example.com"
 languageCode = "en-us"
 sectionPagesMenu = "main"
 theme = "frances"
+googleAnalytics = "UA-167349842-3"
 
 [params]
 	name = "remaps"

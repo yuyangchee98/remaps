@@ -256,7 +256,7 @@ var Grid = (function() {
         create : function() {
             this.$title = $('<h3></h3>');
             this.$description = $('<p></p>');
-            this.$mediums = $('<p></p>');
+            this.$mediums = $('<p></p   >');
             this.$dimensions = $('<p></p>');
             this.$details = $('<div class="og-details"></div>').append(this.$title, this.$description, this.$mediums, this.$dimensions);
             this.$loading = $('<div class="og-loading"></div>');
