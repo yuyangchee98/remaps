@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.com"
+baseurl = "https://remaps.yuyangc.me"
 languageCode = "en-us"
 sectionPagesMenu = "main"
 theme = "frances"
