@@ -303,9 +303,9 @@ alt = "Test Alt"
 description = "Software to use rM as wireless keyboard/mouse."
 shortdescription = "Software to use rM as wireless keyboard/mouse."
 dimensions = "Device Tools"
-image = "img/rm-mouse-full.gif"
+image = "img/full.gif"
 mediums = "https://github.com/Evidlo/remarkable_keyboard"
-thumb = "img/rm-mouse-thumb.gif"
+thumb = "img/thumb.gif"
 title = "reMarkable_keyboard"
 
 [[artworks]]
@@ -313,9 +313,9 @@ alt = "Test Alt"
 description = "Use your reMarkable as a graphics tablet."
 shortdescription = "Use your reMarkable as a graphics tablet."
 dimensions = "Device Tools"
-image = "img/full.png"
+image = "img/rm-mouse-full.gif"
 mediums = "https://github.com/evidlo/remarkable_mouse"
-thumb = "img/thumb.png"
+thumb = "img/rm-mouse-thumb.gif"
 title = "reMarkable_mouse"
 
 [[artworks]]
