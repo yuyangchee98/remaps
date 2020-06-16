@@ -323,9 +323,9 @@ alt = "Test Alt"
 description = "Use daily news/comics/images as the suspend screen."
 shortdescription = "Use daily news/comics/images as the screen."
 dimensions = "Device Tools"
-image = "img/full.png"
+image = "img/news-full.png"
 mediums = "https://github.com/evidlo/remarkable_news"
-thumb = "img/thumb.png"
+thumb = "img/news-thumb.png"
 title = "remarkable_news"
 
 [[artworks]]
