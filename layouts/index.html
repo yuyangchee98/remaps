@@ -18,7 +18,9 @@
 					data-mediums="&lt;a href=&quot;{{ .mediums }}&quot; target=&quot;_blank&quot;&gt; {{ .mediums }} &lt;/a&gt;"  
 					data-dimensions="{{ .dimensions }}"
 					data-description="{{ .description }}">
-					<img class="d-none d-sm-block" src="{{ .thumb }}" alt="{{ .alt }}">
+					<video width="250" height="250" class="d-none d-sm-block" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;">
+						<source src="{{ .thumb }}" alt="{{ .alt }}" type="video/webm">
+					</video>
 					<img class="d-block d-sm-none" src="{{ .image }}" alt="{{ .alt }}">
 				</a>
 				<a> <b>{{ .title }}</b>: {{ .shortdescription }}</a>
