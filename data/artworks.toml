@@ -53,9 +53,9 @@ alt = "Test Alt"
 description = "Docs and implementation of the reMarkable file sync API."
 shortdescription = "Docs and implementation of the reMarkable file sync API."
 dimensions = "APIs"
-image = "img/full.webm"
+image = "img/remarkapi-full.webm"
 mediums = "https://github.com/splitbrain/ReMarkableAPI"
-thumb = "img/thumb.webm"
+thumb = "img/remarkapi-thumb.webm"
 title = "reMarkableAPI"
 
 [[artworks]]
@@ -63,9 +63,9 @@ alt = "Test Alt"
 description = "TypeScript API for reMarkable Cloud."
 shortdescription = "TypeScript API for reMarkable Cloud."
 dimensions = "APIs"
-image = "img/full.webm"
+image = "img/typescript-full.webm"
 mediums = "https://github.com/Ogdentrod/reMarkable-typescript"
-thumb = "img/thumb.webm"
+thumb = "img/typescript-thumb.webm"
 title = "reMarkable-typescript"
 
 [[artworks]]
