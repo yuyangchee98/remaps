@@ -311,12 +311,12 @@ var Grid = (function() {
 
             if (self.$fullimage.is(':visible')) {
                 this.$loading.show();
-                $('<video/>').load( function() {
+                $('<img/>').load( function() {
                     var $img = $(this);
 
                     if ($img.attr('src') === self.$item.children('a').data('largesrc') ) {
                         self.$loading.hide();
-                        self.$fullimage.find('video').remove();
+                        self.$fullimage.find('img').remove();
                         self.$largeImg = $img.fadeIn(350);
                         self.$fullimage.append(self.$largeImg);
                     }

@@ -105,7 +105,7 @@ shortdescription = "Plato reader port. Supports pdfs, epubs, many other formats.
 dimensions = "Applications"
 image = "img/full.webm"
 mediums = "https://github.com/darvin/plato"
-thumb = "img/thumb.webm"
+thumb = "img/plato-thumb.webm"
 title = "plato"
 
 [[artworks]]
@@ -135,7 +135,7 @@ shortdescription = "Turn rM into an external screen"
 dimensions = "Applications"
 image = "img/full.webm"
 mediums = "https://github.com/matteodelabre/rmvncclient"
-thumb = "img/thumb.webm"
+thumb = "img/rmvnc-thumb.webm"
 title = "rmvncclient"
 
 [[artworks]]
