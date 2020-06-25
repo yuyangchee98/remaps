@@ -83,9 +83,9 @@ alt = "Test Alt"
 description = "ReMarkable Cloud Python API."
 shortdescription = "ReMarkable Cloud Python API."
 dimensions = "APIs"
-image = "img/full.webm"
+image = "img/rmapy-full.webm"
 mediums = "https://github.com/subutux/rmapy"
-thumb = "img/thumb.webm"
+thumb = "img/rmapy-thumb.webm"
 title = "rmapy"
 
 [[artworks]]
@@ -93,9 +93,9 @@ alt = "Test Alt"
 description = "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats."
 shortdescription = "An improved ebook reader application."
 dimensions = "Applications"
-image = "img/full.webm"
+image = "img/koreader-full.webm"
 mediums = "https://github.com/koreader/koreader"
-thumb = "img/thumb.webm"
+thumb = "img/koreader-thumb.webm"
 title = "KOReader"
 
 [[artworks]]

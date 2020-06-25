@@ -15,7 +15,8 @@
 }
 
 .og-grid li > a,
-.og-grid li > a img {
+.og-grid li > a img,
+.or-grid li > a video {
 	border: none;
 	outline: none;
 	display: block;

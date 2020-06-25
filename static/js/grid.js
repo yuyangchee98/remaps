@@ -256,7 +256,7 @@ var Grid = (function() {
         create : function() {
             this.$title = $('<h3></h3>');
             this.$description = $('<p></p>');
-            this.$mediums = $('<p></p   >');
+            this.$mediums = $('<p></p>');
             this.$dimensions = $('<p></p>');
             this.$details = $('<div class="og-details"></div>').append(this.$title, this.$description, this.$mediums, this.$dimensions);
             this.$loading = $('<div class="og-loading"></div>');
@@ -311,12 +311,12 @@ var Grid = (function() {
 
             if (self.$fullimage.is(':visible')) {
                 this.$loading.show();
-                $('<img/>').load( function() {
+                $('<video/>').load( function() {
                     var $img = $(this);
 
                     if ($img.attr('src') === self.$item.children('a').data('largesrc') ) {
                         self.$loading.hide();
-                        self.$fullimage.find('img').remove();
+                        self.$fullimage.find('video').remove();
                         self.$largeImg = $img.fadeIn(350);
                         self.$fullimage.append(self.$largeImg);
                     }
