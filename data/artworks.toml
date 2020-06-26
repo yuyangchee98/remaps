@@ -145,7 +145,7 @@ shortdescription = "Script to print directly to reMarkable Cloud from CUPS"
 dimensions = "17.5cm x 11.3cm"
 image = "img/full.webm"
 mediums = "https://ofosos.org/2018/10/22/printing-to-remarkable-cloud-from-cups/)"
-thumb = "img/thumb.webm"
+thumb = "img/cups-thumb.webm"
 title = "CUPS Printing"
 
 [[artworks]]
@@ -155,7 +155,7 @@ shortdescription = "Sync script for reMarkable paper tablet."
 dimensions = "Cloud Tools"
 image = "img/full.webm"
 mediums = "https://github.com/simonschllng/rm-sync"
-thumb = "img/thumb.webm"
+thumb = "img/rmsync-thumb.webm"
 title = "rM-sync"
 
 [[artworks]]
@@ -165,7 +165,7 @@ shortdescription = "Syncthing on reMarkable."
 dimensions = "Cloud Tools"
 image = "img/full.webm"
 mediums = "http://github.com/evidlo/remarkable_syncthing"
-thumb = "img/thumb.webm"
+thumb = "img/syncthing-thumb.webm"
 title = "reMarkable_syncthing"
 
 [[artworks]]
@@ -175,7 +175,7 @@ shortdescription = "Script to sync PDFs from Zotero reference manager"
 dimensions = "Cloud Tools"
 image = "img/full.webm"
 mediums = "https://github.com/michaelmior/zotero-remarkable"
-thumb = "img/thumb.webm"
+thumb = "img/zotero-thumb.webm"
 title = "zotero-reMarkable"
 
 [[artworks]]
@@ -185,7 +185,7 @@ shortdescription = "Export notes from rM to external services"
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/simonbaudart/Funcky.Remarkable.Exporter"
-thumb = "img/thumb.webm"
+thumb = "img/funcky-thumb.webm"
 title = "Funcky reMarkable Exporter"
 
 [[artworks]]
@@ -195,7 +195,7 @@ shortdescription = "Export Instapaper to rM tablet."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/fabianmu/instapaper-as-pdf-to-remarkable"
-thumb = "img/thumb.webm"
+thumb = "img/instapaper-thumb.webm"
 title = "instapaper-as-pdf-to-reMarkable"
 
 [[artworks]]
@@ -205,7 +205,7 @@ shortdescription = "morning paper to remarkable tablet."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/jessfraz/morningpaper2remarkable"
-thumb = "img/thumb.webm"
+thumb = "img/morningpaper-thumb.webm"
 title = "morningpaper2reMarkable"
 
 [[artworks]]
@@ -215,7 +215,7 @@ shortdescription = "Academic paper to rM."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/GjjvdBurg/paper2remarkable"
-thumb = "img/thumb.webm"
+thumb = "img/paper-thumb.webm"
 title = "paper2reMarkable"
 
 [[artworks]]
@@ -225,7 +225,7 @@ shortdescription = "pocket to rM"
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/glidergeek/pocket2rm"
-thumb = "img/thumb.webm"
+thumb = "img/pocket-thumb.webm"
 title = "pocket2rm"
 
 [[artworks]]
@@ -235,7 +235,7 @@ shortdescription = "Companion daemon for the reMarkable"
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/reHackable/maxio"
-thumb = "img/thumb.webm"
+thumb = "img/maxio-thumb.webm"
 title = "reHackable/maxio"
 
 [[artworks]]
@@ -245,7 +245,7 @@ shortdescription = "A set of bash scripts to enhance your rM experience."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/reHackable/scripts"
-thumb = "img/thumb.webm"
+thumb = "img/scripts-thumb.webm"
 title = "reHackable/scripts"
 
 [[artworks]]
@@ -265,7 +265,7 @@ shortdescription = "Manage templates, splash screens, and settings."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/richeymichael/remarkable-assistant"
-thumb = "img/thumb.webm"
+thumb = "img/assistant-thumb.webm"
 title = "reMarkable-assistant"
 
 [[artworks]]
@@ -275,7 +275,7 @@ shortdescription = "Package manager for reMarkable"
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "http://github.com/evidlo/remarkable_entware"
-thumb = "img/thumb.webm"
+thumb = "img/entware-thumb.webm"
 title = "reMarkable_entware"
 
 [[artworks]]
@@ -285,7 +285,7 @@ shortdescription = "A FUSE filesystem wrapper for the reMarkable tablet."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/nick8325/remarkable-fs"
-thumb = "img/thumb.webm"
+thumb = "img/fuse-thumb.webm"
 title = "reMarkable-fs"
 
 [[artworks]]
@@ -345,7 +345,7 @@ shortdescription = "Print to reMarkable w/o extensions or cloud."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/Evidlo/remarkable_printer"
-thumb = "img/thumb.webm"
+thumb = "img/printer-thumb.webm"
 title = "remarkable_printer"
 
 [[artworks]]
@@ -355,7 +355,7 @@ shortdescription = "Change your suspend screens over time"
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/Neurone/reMarkable"
-thumb = "img/thumb.webm"
+thumb = "img/sleep-thumb.webm"
 title = "reMarkable-random-screens"
 
 [[artworks]]
@@ -365,7 +365,7 @@ shortdescription = "Tweak tool for the rM. Lets you organize your templates"
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/morngrar/remarkable-tweak"
-thumb = "img/thumb.webm"
+thumb = "img/tweak-thumb.webm"
 title = "reMarkable-tweak"
 
 [[artworks]]
@@ -375,7 +375,7 @@ shortdescription = "Touch gestures for easy page navigation."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/ddvk/remarkable-touchgestures"
-thumb = "img/thumb.webm"
+thumb = "img/touch-thumb.webm"
 title = "reMarkable-touchgestures"
 
 [[artworks]]
@@ -385,7 +385,7 @@ shortdescription = "Apps Script API for reMarkable Cloud."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://gitlab.com/wrobell/remt"
-thumb = "img/thumb.webm"
+thumb = "img/remt-thumb.webm"
 title = "remt"
 
 [[artworks]]
@@ -395,7 +395,7 @@ shortdescription = "Apps Script API for reMarkable Cloud."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/rien/reStream"
-thumb = "img/thumb.webm"
+thumb = "img/restream-thumb.webm"
 title = "reStream"
 
 [[artworks]]
@@ -405,7 +405,7 @@ shortdescription = "Apps Script API for reMarkable Cloud."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/bruot/pyrmexplorer/wiki"
-thumb = "img/thumb.webm"
+thumb = "img/pyrmexplorer-thumb.webm"
 title = "rMExplorer"
 
 [[artworks]]
@@ -415,7 +415,7 @@ shortdescription =  "Export annotated PDFs from reMarkable tablets."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/jmptable/rm-dl-annotated"
-thumb = "img/thumb.webm"
+thumb = "img/dl-thumb.webm"
 title = "rM-dl-annotated"
 
 [[artworks]]
@@ -425,7 +425,7 @@ shortdescription = "Synchronisation script with a local dedicated library folder
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/lschwetlick/rMsync"
-thumb = "img/thumb.webm"
+thumb = "img/sync-thumb.webm"
 title = "rMsync"
 
 [[artworks]]
@@ -435,7 +435,7 @@ shortdescription = "Allows you to simulate/clone rM input on your computer"
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/LinusCDE/rmTabletDriver"
-thumb = "img/thumb.webm"
+thumb = "img/rmtablet-thumb.webm"
 title = "rmTabletDriver"
 
 [[artworks]]
@@ -455,7 +455,7 @@ shortdescription = "A fast GUI to stream your reMarkable screen over SSH."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/bordaigorl/rmview"
-thumb = "img/thumb.webm"
+thumb = "img/view-thumb.webm"
 title = "rMview"
 
 [[artworks]]
@@ -465,7 +465,7 @@ shortdescription = "A fast & efficient VNC server for streaming rM's screen."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/peter-sa/rM-vnc-server"
-thumb = "img/thumb.webm"
+thumb = "img/vnc-thumb.webm"
 title = "rM-vnc-server"
 
 [[artworks]]
@@ -475,7 +475,7 @@ shortdescription = "Use the wacom pen as a mouse to draw on your pc."
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/LinusCDE/rmWacomToMouse"
-thumb = "img/thumb.webm"
+thumb = "img/wacom-thumb.webm"
 title = "rmWacomToMouse"
 
 [[artworks]]
@@ -485,7 +485,7 @@ shortdescription = "View a file tree, see statistics and export/backup all files
 dimensions = "Device Tools"
 image = "img/full.webm"
 mediums = "https://github.com/LinusCDE/rmWebUiTools"
-thumb = "img/thumb.webm"
+thumb = "img/webui-thumb.webm"
 title = "rmWebUiTools"
 
 [[artworks]]
