@@ -21,7 +21,7 @@
 					<video width="250" height="250" class="d-none d-sm-block" onmouseover="this.play()" onmouseout="this.pause();this.currentTime=0;">
 						<source src="{{ .thumb }}" alt="{{ .alt }}" type="video/webm">
 					</video>
-					<img class="d-block d-sm-none" width="250" height="250" src="{{ .image }}" alt="{{ .alt }}" type="video/webm">
+					<img class="d-block d-sm-none" src="{{ .image }}" alt="{{ .alt }}">
 				</a>
 				<a> <b>{{ .title }}</b>: {{ .shortdescription }}</a>
 			</li>
